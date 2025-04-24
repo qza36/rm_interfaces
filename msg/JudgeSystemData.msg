@@ -3,4 +3,5 @@ int16 remaining_time
 int16 blood
 int16 outpost_hp
 uint8 is_lowpower
+int16 hp
 OperatorCommand operator_command
