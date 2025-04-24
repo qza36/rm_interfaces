@@ -4,4 +4,5 @@ int16 blood
 int16 outpost_hp
 uint8 is_lowpower
 int16 hp
+int16 shut_num
 OperatorCommand operator_command
