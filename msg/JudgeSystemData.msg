@@ -5,4 +5,5 @@ int16 outpost_hp
 uint8 is_lowpower
 int16 hp
 int16 shut_num
+uint8 qs_hp
 OperatorCommand operator_command
